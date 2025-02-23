@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Artem! 👋  
 
-<!--
-**Artem45464/Artem45464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who enjoys coding and contributing to open-source projects.  
 
-Here are some ideas to get you started:
+## 🚀 Interests  
+- 🖥️ Web Development   
+- 📱 App Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- **Programming Languages:** HTML, CSS, JavaScript, Python  
+- **Frameworks & Libraries:** Angular, Next.js  
+
+## 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Artem45464&layout=compact)  
