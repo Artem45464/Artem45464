@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys coding and c
 
 ## 🚀 Interests  
 - 🖥️ Web Development   
-- 📱 App Development  
+ 
 
 ## 🛠️ Skills  
 - **Programming Languages:** HTML, CSS, JavaScript, Python  
